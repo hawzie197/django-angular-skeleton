@@ -68,7 +68,7 @@ Setup
 
 1. open terminal
 2. cd desktop
-3. git clone 
+3. git clone https://github.com/hawzie197/Django-Angular-Skeleton.git
 4. cd ignition
 5. create virtual environment (see below for mac vs windows)
 6. pip install -r requirements.txt
